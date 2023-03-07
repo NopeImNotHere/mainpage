@@ -1,94 +1,93 @@
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 body {
-    background: linear-gradient(90deg, teal, darkblue);
-    color: white;
-    font-family: 'Vollkorn', serif;
+  background: linear-gradient(90deg, teal, darkblue);
+  color: white;
+  font-family: "Vollkorn", serif;
 }
 
 div #main {
-    font-weight: lighter;
-    text-align: center;
+  font-weight: lighter;
+  text-align: center;
 }
 
 .container {
-    display: grid;
-    justify-content: space-evenly;
-    grid-template-columns: 100px 1fr 100%;
-    grid-template-columns: 25% 25% 25% 25%;
-    margin-bottom: 20rem;
-    align-content: center;
-    justify-items: center;
-    align-items: baseline;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: 25% 25% 25% 25%;
+  margin-bottom: 5rem;
+  align-content: center;
+  justify-items: center;
+  align-items: baseline;
 }
 
 .main-font {
-    font-family: 'Vollkorn', serif;
+  font-family: "Vollkorn", serif;
 }
 
 .h1-font {
-    font-family: 'Press Start 2P', cursive;
+  font-family: "Press Start 2P", cursive;
 }
 
 .main {
-    margin-bottom: 20rem;
+  margin-bottom: 20rem;
 }
 
 div #homepage {
-    font-weight: lighter;
-    text-align: center;
+  font-weight: lighter;
+  text-align: center;
 }
 
 div .container img {
-    border-radius: 15px;
+  border-radius: 15px;
 }
 
 .main {
-    text-align: center;
-    list-style-position: inside;
+  text-align: center;
+  list-style-position: inside;
 }
 
 .underline {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .center {
-    text-align: center;
-    margin: 0 auto;
+  text-align: center;
+  margin: 0 auto;
 }
 
 img #heli {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    width: 50%;
-    height: auto;
-    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 50%;
+  height: auto;
+  display: block;
 }
 
 div #div1 {
-    color: aqua;
-    margin-bottom: 10px;
-    font-size: 50px;
-    font-weight: lighter;
-    text-align: inherit;
-    padding: 10px, 10px, 10px, 10px;
+  color: aqua;
+  margin-bottom: 10px;
+  font-size: 50px;
+  font-weight: lighter;
+  text-align: inherit;
+  padding: 10px, 10px, 10px, 10px;
 }
 
 div #div2 {
-    padding-top: 20px;
-    word-spacing: 100px;
-    font-style: italic;
-    text-align: inherit;
+  padding-top: 20px;
+  word-spacing: 100px;
+  font-style: italic;
+  text-align: inherit;
 }
 
 h1 #main {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 p {
-    text-align: center;
+  text-align: center;
 }
