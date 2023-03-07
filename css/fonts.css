@@ -1,0 +1,29 @@
+/* noto-sans-300 - latin */
+@font-face {
+    font-display: swap;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/noto-sans-v27-latin-300.woff2') format('woff2'),
+         url('../fonts/noto-sans-v27-latin-300.woff') format('woff');
+}
+
+/* press-start-2p-regular - latin */
+@font-face {
+    font-display: swap;
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/press-start-2p-v14-latin-regular.woff2') format('woff2'),
+         url('../fonts/press-start-2p-v14-latin-regular.woff') format('woff');
+}
+
+/* vollkorn-regular - latin */
+@font-face {
+    font-display: swap;
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/vollkorn-v21-latin-regular.woff2') format('woff2'),
+         url('../fonts/vollkorn-v21-latin-regular.woff') format('woff');
+}
